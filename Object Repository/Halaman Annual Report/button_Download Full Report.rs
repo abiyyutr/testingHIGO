@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Download Full Report</name>
+   <tag></tag>
+   <elementGuidId>a8605ff0-285d-44a0-8b1e-364c3e37dfd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.download-report-desktop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbf2c931-db55-4936-8179-d3eafcf7d986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>download-report-desktop</value>
+      <webElementGuid>b027325b-8fcf-4a83-918f-a604f297fbb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Download Full Report
+    </value>
+      <webElementGuid>c897a8c3-7c25-4786-b3c2-62777855a475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;annual-container&quot;]/section[@class=&quot;annual-report-hero-container&quot;]/div[@class=&quot;download-wrapper&quot;]/button[@class=&quot;download-report-desktop&quot;]</value>
+      <webElementGuid>9eb9196d-3fcf-49e5-82ed-eee7825ad6ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section/div[2]/button</value>
+      <webElementGuid>10dd905e-4210-4061-8290-4806b0528607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Full Report'])[1]/following::button[1]</value>
+      <webElementGuid>1ca4e2c4-82a5-41f0-93ac-80b8ef508b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d45823ff-7f1d-4b71-900a-bf6916ca6810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+      Download Full Report
+    ' or . = '
+      Download Full Report
+    ')]</value>
+      <webElementGuid>033dc9f9-e446-4477-a0db-27019ef7b1c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_All</name>
+   <tag></tag>
+   <elementGuidId>de162258-b527-4900-8e12-0d7f2622f187</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/nav[2]/ul/li/a/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>051175cf-4e71-4c46-aa45-64bde25533c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All</value>
+      <webElementGuid>90fa5053-f114-48dc-9b2c-38bc9e2234e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/nav[@class=&quot;navbar w-full px5 shadow-md h-14&quot;]/ul[@class=&quot;md:flex hidden align-items-center justify-center w-full h-full py-4 px-2 lg:px-0 bg-white&quot;]/li[@class=&quot;transition-all duration-150 lg:mx-4 mx-2 xl:mx-6 lg:text-base cursor-pointer hover:border-b-2 hover:border-blue-500 text-sm border-b-2 border-blue-500&quot;]/a[1]/h1[1]</value>
+      <webElementGuid>2e2a8503-c0c5-40fe-bb52-4428a5fe2c54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav[2]/ul/li/a/h1</value>
+      <webElementGuid>23e90e7c-4dac-4da8-8bb4-680acf9471fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/following::h1[1]</value>
+      <webElementGuid>f90e1693-f20a-4b3c-ad27-5153513173e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::h1[1]</value>
+      <webElementGuid>3d62490b-54fe-462e-b339-348ccd0fbbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGOes Update'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e70041b5-e4f6-44c9-a218-1c68846e534b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hangout'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a882f6fb-7f8c-4b62-b6c7-3367a28b7a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All']/parent::*</value>
+      <webElementGuid>9d413004-57cf-4bcf-9293-a6b17c827e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>090230de-e135-44ff-b3cd-f4074b736306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'All' or . = 'All')]</value>
+      <webElementGuid>1ee07e97-ab91-4412-9ff6-ded031b5c315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

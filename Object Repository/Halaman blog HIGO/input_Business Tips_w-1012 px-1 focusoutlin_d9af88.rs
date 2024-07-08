@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Business Tips_w-1012 px-1 focusoutlin_d9af88</name>
+   <tag></tag>
+   <elementGuidId>eb5ae971-16a5-48a6-bb48-373a1eb7c287</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>16640844-1964-41cd-9245-ab1b3e2f3785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-10/12 px-1 focus:outline-none outline-none border-transparent bg-transparent</value>
+      <webElementGuid>4d7cecb0-7faa-4ca4-9a2d-b8735f12afdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search...</value>
+      <webElementGuid>230cf27b-64e7-40ee-be55-dd8a69dd4d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/nav[@class=&quot;navbar w-full px5 shadow-md h-14&quot;]/ul[@class=&quot;md:flex hidden align-items-center justify-center w-full h-full py-4 px-2 lg:px-0 bg-white&quot;]/li[@class=&quot;w-40 lg:w-44 lg:mx-4 lg:text-base text-sm mx-2 xl:mx-6&quot;]/form[@class=&quot;px-1 flex rounded-full border-2 border-color-black-300&quot;]/input[@class=&quot;w-10/12 px-1 focus:outline-none outline-none border-transparent bg-transparent&quot;]</value>
+      <webElementGuid>db9d8b3a-73ad-4f4d-99c6-c96ff87dc476</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>dd346091-8b27-4d86-b19a-47e1c18e68d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav[2]/ul/li[7]/form/input</value>
+      <webElementGuid>14788176-b374-4062-93fb-c5775de9517a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>1aef438d-1f04-4714-8848-2a08f4c50063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search...']</value>
+      <webElementGuid>2207e28d-f43a-4e68-9cee-79d764673386</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

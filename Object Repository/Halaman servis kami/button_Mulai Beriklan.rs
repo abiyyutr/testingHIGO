@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mulai Beriklan</name>
+   <tag></tag>
+   <elementGuidId>996139ef-fa77-4163-8053-42e4bb5959d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>28f34ed9-3e98-4812-bab4-174613c12dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3191e4b-a40e-4965-993c-2ff911338dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-16 py-4 flex bg-[#04E3F4] rounded-full text-primary</value>
+      <webElementGuid>d5d3efa4-b2e2-4f95-b8f4-4e02d9e8f1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mulai Beriklan</value>
+      <webElementGuid>17805869-3ced-4244-bfe9-0c6a2486c6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_c128ca&quot;]/section[@class=&quot;mt-48 bg-primary w-full pb-20 lg:pb-0&quot;]/div[@class=&quot;flex flex-col-reverse lg:flex-row justify-between items-center lg:items-start xl:items-center max-[450px]:h-[25.25rem]&quot;]/div[@class=&quot;lg:py-32 px-5 lg:pl-44 sm:flex sm:flex-col sm:justify-center sm:items-center lg:block&quot;]/div[@class=&quot;pt-8 sm:pt-12&quot;]/button[@class=&quot;px-16 py-4 flex bg-[#04E3F4] rounded-full text-primary&quot;]</value>
+      <webElementGuid>a1f77351-b6a0-43c4-9bea-ad04b01ddf2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Halaman servis kami/iframe_Bahasa_react-iframe-container</value>
+      <webElementGuid>b85a32eb-d304-4915-a63b-cc5ba9783cfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>d7bd47f7-c79f-4202-b6f1-f5cbcb2c412c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[4]/div/div/div/button</value>
+      <webElementGuid>c5759a6f-8eb3-4e33-a214-b43e8888fb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangkau target audiens dengan berbagai platform media'])[1]/following::button[1]</value>
+      <webElementGuid>f86e1679-d499-4d0c-8d18-a1a77ffeeb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Kami'])[1]/following::button[1]</value>
+      <webElementGuid>97c8c521-d15b-41bc-a74b-57dbc0aae270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E: info@higo.id'])[1]/preceding::button[1]</value>
+      <webElementGuid>a8dbe268-1dab-4815-9c12-a7773d6eb3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P: (021) 5806860'])[1]/preceding::button[1]</value>
+      <webElementGuid>d5cd33a3-d0da-4980-9852-a52f519211d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mulai Beriklan']/parent::*</value>
+      <webElementGuid>4610c9c2-0009-4566-9582-3b2e97ab7c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>a8ea038e-d7e1-4a16-b6d4-7877f8bd83b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Mulai Beriklan' or . = 'Mulai Beriklan')]</value>
+      <webElementGuid>b8166388-cfe6-41d5-9cbb-dd0a6aface33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

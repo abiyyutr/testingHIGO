@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Gabung Bersama Kami</name>
+   <tag></tag>
+   <elementGuidId>e73c18b3-c161-438c-bb3e-0aaf0cdd5600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btn-home']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-home > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e960a3f3-3c40-4977-8f6c-f8fa17942090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gabung Bersama Kami</value>
+      <webElementGuid>30cea180-2bda-4f89-9391-38c57e11d3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-home&quot;)/p[1]</value>
+      <webElementGuid>29425fda-5015-45a8-b959-693635ef579a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='btn-home']/p</value>
+      <webElementGuid>98a88257-7d07-411f-aa9f-ea868b6ecc8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ambil Bagianmu'])[1]/following::p[2]</value>
+      <webElementGuid>e60d15ea-d356-4b65-968d-e5f0aa218a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNTUK MEMBERIKAN SOLUSI'])[1]/following::p[3]</value>
+      <webElementGuid>1d8ab89d-b3a1-4105-a5e9-589ab3eefb10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E: info@higo.id'])[1]/preceding::p[2]</value>
+      <webElementGuid>2813052d-a852-4f29-b1ec-308915ed1940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P: (021) 5806860'])[1]/preceding::p[2]</value>
+      <webElementGuid>0d1f88a6-297d-4ccd-8547-759ddf0bad0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/p</value>
+      <webElementGuid>a7d2397f-2d5b-4091-ba12-9f2ce574232b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Gabung Bersama Kami' or . = 'Gabung Bersama Kami')]</value>
+      <webElementGuid>2cf29659-05e4-46bb-a3fc-037a76028d74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

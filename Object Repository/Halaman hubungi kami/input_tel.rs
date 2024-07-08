@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_tel</name>
+   <tag></tag>
+   <elementGuidId>35be035e-7565-4889-879f-b0b7c6e77c7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='tel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;tel&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b45ba63e-6a4f-44d3-9b44-cf376045186b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>a93484cb-9afb-44e5-915c-44e471147642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nomor telepon (+62888xxx) </value>
+      <webElementGuid>de13f9a2-5eba-43c9-912d-249014615eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;contact-container velmld-parent&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;second-content&quot;]/form[@class=&quot;contact-form&quot;]/div[@class=&quot;form-item telepon&quot;]/input[1]</value>
+      <webElementGuid>963b0354-be26-48b1-b483-589414768c94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='tel']</value>
+      <webElementGuid>8cf7b2e0-a794-45a7-957f-aa77e4dcf629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[3]/form/div[3]/input</value>
+      <webElementGuid>f2601011-4f8b-40ac-968d-5d5853807ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/following::input[3]</value>
+      <webElementGuid>7951faed-48ac-4aca-81fb-1c0b13ffeaf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa'])[1]/following::input[3]</value>
+      <webElementGuid>cdd31910-0d72-409a-8b00-614eed2ad3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::input[2]</value>
+      <webElementGuid>378b799f-c413-46c9-a734-58ccc4c0a3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E: info@higo.id'])[1]/preceding::input[2]</value>
+      <webElementGuid>ea580c1e-cd55-46d4-8c84-6f1925ed3c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>32d979b9-e8cd-42ad-a8d5-b1512dce726a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel' and @placeholder = 'Nomor telepon (+62888xxx) ']</value>
+      <webElementGuid>7ba86501-6b80-4237-a124-27a80867de63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

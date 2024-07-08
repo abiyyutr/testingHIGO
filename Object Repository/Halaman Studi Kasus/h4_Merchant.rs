@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Merchant</name>
+   <tag></tag>
+   <elementGuidId>36e9180a-cd53-41d1-822b-502e74b1a0c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='select-content']/button/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.pick-cases.cases-picked > h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>c1eb1008-9341-46e3-a534-36830f592fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merchant</value>
+      <webElementGuid>1501efca-302e-40a9-8531-393db0c63f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-content&quot;)/button[@class=&quot;pick-cases cases-picked&quot;]/h4[1]</value>
+      <webElementGuid>60f3597c-8338-4b1e-be0a-8d2afe02f61d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='select-content']/button/h4</value>
+      <webElementGuid>f24f8b3c-c8d9-43d0-a050-3166f91ea5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kisah sukses yang seneng untuk dibagi-bagi'])[1]/following::h4[1]</value>
+      <webElementGuid>16b34192-45ba-4b5d-af4f-6759d35cc9a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StudiKasus'])[1]/following::h4[2]</value>
+      <webElementGuid>8b0640f4-4e16-47ef-beba-64191f8435a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign'])[1]/preceding::h4[1]</value>
+      <webElementGuid>6eceae09-e49b-4d1d-9f59-f621b65c071e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E: info@higo.id'])[1]/preceding::h4[2]</value>
+      <webElementGuid>ebd27408-91aa-4766-8e5f-ea68ac3e05c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/h4</value>
+      <webElementGuid>a9ff05b0-2027-4b6d-ae61-87e693cfab3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Merchant' or . = 'Merchant')]</value>
+      <webElementGuid>b5790c89-356e-450d-bb78-ff09dfbadddd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
